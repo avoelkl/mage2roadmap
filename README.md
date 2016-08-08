@@ -11,7 +11,7 @@ The idea is to have a single point where you can find new stuff that is planned 
   * CMS (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 
 ## 2016
-* Q3/2016: Magento B2B
+* Q4/2016, Q1/2017: Magento B2B
   * Magento Enterprise B2B for EE (Source: [Twitter](https://twitter.com/sherrierohde/status/720301116911525888))
   * No longer part of 2.2 (Source: Partner Sales and MCOM Training, July 2016)
 * 23.06.2016: Magento 2.1 (Source: [Magento Blog](https://magento.com/blog/magento-news/magento-enterprise-edition-21-unleashes-power-marketers-and-merchandisers))
