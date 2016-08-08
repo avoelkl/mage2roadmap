@@ -3,6 +3,8 @@ This is an **inofficial** Magento 2 Roadmap.
 The idea is to have a single point where you can find new stuff that is planned for Magento 2. This should make it easier for everyone of us dealing with Magento 2 to plan ahead.
 
 ## no date
+* Magento 2.x
+  * SASS instead LESS (Source: [Alan Kent Blog](https://alankent.me/2016/05/21/magento-2-community-project-moving-from-less-to-sass/))
 * Magento 2.4
   * Advanced Reporting (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 * Magento 2.3
