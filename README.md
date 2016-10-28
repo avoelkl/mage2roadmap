@@ -9,6 +9,9 @@ The idea is to have a single point where you can find new stuff that is planned 
   * Advanced Reporting (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 * Magento 2.3
   * CMS (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
+* not specified
+  * CMS Enhancements (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
+  * Expanded API Coverage (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
 
 ## 2016
 * Q4/2016, Q1/2017: Magento B2B
