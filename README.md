@@ -1,5 +1,5 @@
 # mage2roadmap
-This is an **inofficial** Magento 2 Roadmap.
+This is an **unofficial** Magento 2 Roadmap.
 The idea is to have a single point where you can find new stuff that is planned for Magento 2. This should make it easier for everyone of us dealing with Magento 2 to plan ahead.
 
 ## no date
