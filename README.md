@@ -3,15 +3,22 @@ This is an **unofficial** Magento 2 Roadmap.
 The idea is to have a single point where you can find new stuff that is planned for Magento 2. This should make it easier for everyone of us dealing with Magento 2 to plan ahead.
 
 ## no date
-* Magento 2.x
-  * SASS instead LESS (Source: [Alan Kent Blog](https://alankent.me/2016/05/21/magento-2-community-project-moving-from-less-to-sass/))
+* Magento 2.3
+  * CMS (Bluefoot) (Source: [DevBlog](https://community.magento.com/t5/Magento-DevBlog/Bluefoot-Integration-Vision/ba-p/66943), [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 * Magento 2.4
   * Advanced Reporting (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
-* Magento 2.3
-  * CMS (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 * not specified
+  * SASS instead LESS (Source: [Alan Kent Blog](https://alankent.me/2016/05/21/magento-2-community-project-moving-from-less-to-sass/))
   * CMS Enhancements (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
   * Expanded API Coverage (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
+
+## 2017
+
+* Magento 2.2
+  * Magento Shipping
+  * Magento Social
+  * Magento B2B (part of Magento EE)
+  * Release expected September 2017 (Source: [Twitter](https://twitter.com/rescueAnn/status/866581023957581825))
 
 ## 2016
 * Q4/2016, Q1/2017: Magento B2B
