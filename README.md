@@ -11,7 +11,9 @@ The idea is to have a single point where you can find new stuff that is planned 
   * SASS instead LESS (Source: [Alan Kent Blog](https://alankent.me/2016/05/21/magento-2-community-project-moving-from-less-to-sass/))
   * CMS Enhancements (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
   * Expanded API Coverage (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
-
+* Unspecified
+  * Progressive web app (Source: [DevBlog](https://community.magento.com/t5/Magento-DevBlog/Introducing-Magento-PWA-Studio/ba-p/74636))
+  
 ## 2017
 
 * Magento 2.2
