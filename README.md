@@ -8,7 +8,6 @@ The idea is to have a single point where you can find new stuff that is planned 
 * Magento 2.4
   * Advanced Reporting (Source: [Twitter](https://twitter.com/drlrdsen/status/720934709820334081))
 * not specified
-  * SASS instead LESS (Source: [Alan Kent Blog](https://alankent.me/2016/05/21/magento-2-community-project-moving-from-less-to-sass/))
   * CMS Enhancements (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
   * Expanded API Coverage (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
 * Unspecified
