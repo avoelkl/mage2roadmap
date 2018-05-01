@@ -18,8 +18,25 @@ The idea is to have a single point where you can find new stuff that is planned 
   * Progressive Web App (Source: [DevBlog](https://community.magento.com/t5/Magento-DevBlog/Introducing-Magento-PWA-Studio/ba-p/74636), [Twitter](https://twitter.com/slkra/status/941945245914292224/photo/1))
       * PWA Developer Studio
       * Client-side performance
-      * GraphQL 1.0
+  * GraphQL 1.0  - new Web API - flexible and fast - to help facilitate PWA (some features not till 2.4)
   * Multi-Source Inventory 1.0 (Source: [Twitter](https://twitter.com/slkra/status/941945245914292224/photo/1))
+  * Declarative DB schema (facilitates rollbacks + more), old way deprecated in future (2.4+)- Asynchronous Web API (+ bulk web API)
+  * Message Queue moved to Open Source
+  * Elasticsearch moved to Open Source and supports v5 - may be default search in future
+  * PHP 7.2 support - breaking changes and mycrypt compatibility support
+  * mycrypt replaced with libsodium in future patch version
+  * Removal of many Zend framework dependencies
+  * Composer package versions removed from composer.json
+  * WYSIWYG upgrade - TinyMCE from v3 -> v4 (3 still supported until 2.4)
+  * EAP (Early Access Program) available for partners
+  * Beta version can be installed in 2.3
+  * Full version in 2.3.x patch release (and on Magento Marketplace)
+  * - Import / export improvements
+  * Fine grained cache management ACL
+  * Google reCaptcha and 2 factor authentication
+  
+Soure: Annoucnements from [Magento Imagine 2018](https://twitter.com/JohnHughes1984/status/988882093865250818).
+  
 
 ## 2017
 
