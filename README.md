@@ -9,6 +9,8 @@ The idea is to have a single point where you can find new stuff that is planned 
   * CMS Enhancements (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
   * Expanded API Coverage (Source: [Twitter](https://twitter.com/rescueAnn/status/791919854743871488))
   
+# Upcoming releases
+See [Upcoming releases on the Magento website](https://devdocs.magento.com/release/)
 
 ## 2018
 
