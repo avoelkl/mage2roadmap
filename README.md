@@ -2,6 +2,9 @@
 This is an **unofficial** Magento 2 Roadmap.
 The idea is to have a single point where you can find new stuff that is planned for Magento 2. This should make it easier for everyone of us dealing with Magento 2 to plan ahead.
 
+## OFFICIAL MAGENTO ROADMAP
+Magento announced an official roadmap on the 21.10.2021: see [https://devdocs.magento.com/release/roadmap.html](https://devdocs.magento.com/release/roadmap.html)
+
 # Upcoming releases
 See [Upcoming releases on the Magento website](https://devdocs.magento.com/release/)
 
